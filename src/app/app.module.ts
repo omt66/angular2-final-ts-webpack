@@ -13,6 +13,9 @@ import { removeNgStyles, createNewHosts } from "@angularclass/hmr";
 import { Home } from "./pages/home";
 import { Help } from "./pages/help";
 
+// UI Elements
+import { SimplePanel } from "./ui-elements/simple-panel";
+
 @NgModule({
   imports: [
     BrowserModule,
@@ -26,6 +29,9 @@ import { Help } from "./pages/help";
     // Pages
     Home,
     Help,
+
+    // UI Elements
+    SimplePanel
   ],
   providers: [
   ],
