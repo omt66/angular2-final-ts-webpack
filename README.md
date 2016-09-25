@@ -9,7 +9,7 @@ First of all, clone this in your local system.
 
 ```sh
 npm i webpack typings typescript -g
-git clone git@github.com/omt66/angular2-ts-webpack.git
+git clone https://github.com/omt66/angular2-ts-webpack.git
 cd angular2-ts-webpack
 npm install
 
