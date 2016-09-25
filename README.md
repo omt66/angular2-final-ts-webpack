@@ -5,7 +5,7 @@ This starter package is heavily influenced by the ng2-webpack starter.
 
 ### Install
 
-First of all, clone this in your local system.
+First of all, clone this in your local system and install the required npm modules.
 
 ```sh
 npm i webpack typings typescript -g
@@ -22,7 +22,7 @@ npm start
 This will start the server at port 7070
 Go to http://localhost:7070 to view your application.
 
-Directory structure for your projects as follows:
+Directory structure for your project is shown below:
 ```
 + src
   +- app
@@ -30,7 +30,7 @@ Directory structure for your projects as follows:
        - home
      +- pipes
      +- services
-     +- ui-elemets
+     +- ui-elements
      +- app.html
      +- app.ts
      +- app.module.ts
