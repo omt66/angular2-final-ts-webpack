@@ -1,4 +1,4 @@
-# angular2-typescript-webpack
+# angular2-webpack-typescript-starter
 Angular 2 TypeScript & WebPack Starter
 
 This starter package is heavily influenced by the ng2-webpack starter.
