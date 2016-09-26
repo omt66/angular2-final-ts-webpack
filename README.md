@@ -1,4 +1,4 @@
-# angular2-ts-webpack
+# angular2-typescript-webpack
 Angular 2 TypeScript & WebPack Starter
 
 This starter package is heavily influenced by the ng2-webpack starter.
@@ -9,7 +9,7 @@ First of all, clone this in your local system and install the required npm modul
 
 ```sh
 npm i webpack typings typescript -g
-git clone https://github.com/omt66/angular2-ts-webpack.git
+git clone https://github.com/omt66/angular2-typescript-webpack.git
 cd angular2-ts-webpack
 npm install
 
@@ -47,4 +47,6 @@ Directory structure for your project is shown below:
 
 
 ```
+
+PS: Renamed the repo because there was another one with the same name!
 
