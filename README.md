@@ -10,7 +10,7 @@ First of all, clone this in your local system and install the required npm modul
 ```sh
 npm i webpack typings typescript -g
 git clone https://github.com/omt66/angular2-webpack-typescript-starter.git
-cd angular2-ts-webpack
+cd angular2-webpack-typescript-starter
 npm install
 
 After install run this
