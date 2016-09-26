@@ -1,5 +1,5 @@
-# angular2-webpack-typescript-starter
-Angular 2 TypeScript & WebPack Starter
+# angular2-final-ts-webpack
+Angular 2 (final version) TypeScript & WebPack Starter
 
 This starter package is heavily influenced by the ng2-webpack starter.
 
@@ -9,8 +9,8 @@ First of all, clone this in your local system and install the required npm modul
 
 ```sh
 npm i webpack typings typescript -g
-git clone https://github.com/omt66/angular2-webpack-typescript-starter.git
-cd angular2-webpack-typescript-starter
+git clone https://github.com/omt66/angular2-final-ts-webpack.git
+cd angular2-final-ts-webpack
 npm install
 
 After install run this
